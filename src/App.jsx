@@ -117,7 +117,7 @@ function App() {
 
   return (
     <Container maxWidth="sm" sx={{ mt: 4, mb: 4 }}>
-      <Box sx={{ textAlign: 'center', mb: 4 }}>
+      <Box sx={{ textAlign: 'center', mb: 4, fontWeight: 'bold' }}>
         <Typography variant="h2" component="h1" gutterBottom>
           MFT Bank
         </Typography>
